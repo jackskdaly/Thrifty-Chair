@@ -1,2 +1,3 @@
 # Thrifty-Chair
-Thrifty Chair Website
+
+My first change
